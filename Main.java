@@ -47,10 +47,10 @@ if (input.equals("Y") || input.equals("y"))
     }
 }
 else if (input.equals("N") || input.equals("n")){
-  System.out.println("You said no. Why are you even here ")
+  System.out.println("You said no. Why are you even here ");
 }
 else {
-  System.out.println("You obviously didn\'t read teh instructions. You are probably an idiot'")
+  System.out.println("You obviously didn\'t read teh instructions. You are probably an idiot'");
 }
   }
 }
